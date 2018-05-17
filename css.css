@@ -1,0 +1,84 @@
+
+
+
+.wrapper{
+	background:rgb(255, 255, 255);
+	margin:0 auto;
+}
+
+
+.heading{
+	height:100px;
+	background:rgb(255, 255, 255);
+	padding:20px;
+	text-align:center;
+}
+.navigation{
+	height:50px;
+	background:rgb(255, 255, 255);
+}
+.content{
+	min-height:400px;
+	background:rgb(255, 255, 255);
+	width:400px;
+	float:left;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+.gallery{
+	
+	min-height:400px;
+}
+.footer{
+	clear:both;
+	background:rgb(184, 178, 178);
+	height:40px;
+	color:black;
+	text-align:center;
+	padding:10px;
+}
+.mid{
+	clear:both;
+	background:rgb(150, 150, 150);
+	height:60px;
+	color:black;
+	text-align:center;
+	padding: 10px;
+}
+.mid1{
+	clear:both;
+	background:rgb(216, 214, 214);
+	height:auto;
+	color:black;
+	text-align:center;
+	padding: 10px;
+}
+.go{
+
+	text-align: left;
+}
+
+#navigator{width:970px;
+    background:-moz-linear-gradient(top,seagreen,green);
+    margin-top:-20px;
+    }
+    
+    #navigator ul{list-style-type:none;
+    font-size:1.0em;
+    text-transform:capitalize;
+    }
+    
+    #navigator li{display:inline-block;
+    padding:10px 20px 10px 20px;
+    }
+    
+    .title{
+        background-image:url(images/logo-company.png);
+        
+        width: 82px;
+        height: 18px;
+        margin-left: 50px;
+        padding-top: 40px;
+    }
